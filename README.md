@@ -1,4 +1,9 @@
-# miilkyy_qr
+# MiilkyyQR
+
+## Example
+```
+[![img example](https://imgur.com/a/YfRdDb1)]
+```
 
 ## Project setup
 ```
