@@ -2,7 +2,7 @@
 
 ## Example
 ```
-[![img example](https://imgur.com/a/YfRdDb1)]
+![img example](img/miilkyyQR.png)
 ```
 
 ## Project setup
