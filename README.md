@@ -1,9 +1,7 @@
 # MiilkyyQR
 
 ## Example
-```
 ![img example](img/miilkyyQR.png)
-```
 
 ## Project setup
 ```
